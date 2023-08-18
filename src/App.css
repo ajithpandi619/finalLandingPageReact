@@ -13,3 +13,21 @@ body {
   font-size: larger;
   font-weight: 500;
 }
+
+.f-bg {
+  background-color: rgb(0, 0, 0);
+}
+
+.list-unstyled li {
+  cursor: pointer;
+}
+.navbar-toggler {
+  background-color: white;
+}
+.f-ic:hover {
+  height: 55px;
+}
+.f-ic {
+  cursor: pointer;
+  color: aliceblue;
+}

@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-md navbar-light bg-dark">
+    <nav className="navbar navbar-expand-md ">
       <div className="container">
         <a className="navbar-brand text-success fw-bold " href="#">
           Data Company
